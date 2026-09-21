@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# crimsonstreamfire/discORdobHodDPI 2e8630f30c20
